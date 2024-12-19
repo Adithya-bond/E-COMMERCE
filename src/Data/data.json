@@ -1,0 +1,56 @@
+{
+  "Admin": [
+    {
+      "id": "d644",
+      "name": "adi",
+      "email": "adithyamh@gmail.com",
+      "password": "0987",
+      "phone": "7337633150"
+    }
+  ],
+  "Users": [
+    {
+      "name": "adi",
+      "password": "1234",
+      "id": "ce78"
+    }
+  ],
+  "products": [
+    {
+      "category": "Mobile",
+      "name": "realme NARZO 70 Pro 5G",
+      "price": "10000",
+      "thumbnail": "https://m.media-amazon.com/images/I/71Qwha+BcbL._AC_UY327_FMwebp_QL65_.jpg",
+      "ratings": "5",
+      "desc": "realme NARZO 70 Pro 5G (Glass Gold, 8GB RAM,256GB Storage) Dimensity 7050 5G Chipset | Horizon Glass Design | Segment 1st Flagship Sony IMX890 OIS Camera",
+      "id": "d093"
+    },
+    {
+      "id": "3ed1",
+      "category": "Mobile",
+      "name": "Redmi 13C 5G",
+      "price": "15000",
+      "thumbnail": "https://m.media-amazon.com/images/I/81nMsYgIHdL._AC_UY327_FMwebp_QL65_.jpg",
+      "ratings": "4",
+      "desc": "Redmi 13C 5G (Starlight Black, 4GB RAM, 128GB Storage) | MediaTek Dimensity 6100+ 5G | 90Hz Display"
+    },
+    {
+      "id": "d57e",
+      "category": "Mobile",
+      "name": "POCO M6 5G",
+      "price": "8000",
+      "thumbnail": "https://m.media-amazon.com/images/I/719LcA76E5L._AC_UY327_FMwebp_QL65_.jpg",
+      "ratings": "4",
+      "desc": "POCO M6 5G, Orion Blue (4GB, 64GB)"
+    },
+    {
+      "id": "c6b7",
+      "category": "Mobile",
+      "name": "OnePlus Nord CE 3 5G",
+      "price": "17000",
+      "thumbnail": "https://m.media-amazon.com/images/I/6175SlKKECL._AC_UY327_FMwebp_QL65_.jpg",
+      "ratings": "4.5",
+      "desc": "OnePlus Nord CE 3 5G (Aqua Surge, 8GB RAM, 128GB Storage)"
+    }
+  ]
+}

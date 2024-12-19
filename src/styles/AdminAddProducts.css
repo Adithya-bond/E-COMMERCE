@@ -1,0 +1,44 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+.addproducts{
+    height: 70vh;
+    width: 100%;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.addproducts>form{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(232, 232, 232);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.addproducts>form>fieldset{
+    height: 100%;
+    width: 100%;
+    /* background-color: beige; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.addproducts>form>fieldset>input{
+    margin-bottom: 10px;
+}
+.addproducts>form>fieldset>textarea{
+    margin-bottom: 10px;
+}
+.addproducts>form>fieldset>button{
+    height: 30px;
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.addproducts>form>fieldset>button:hover{
+    border: 3px solid green;
+}

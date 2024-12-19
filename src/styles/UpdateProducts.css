@@ -1,0 +1,44 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+.updateproducts{
+    height: 70vh;
+    width: 100%;
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.updateproducts>form{
+    height: 100%;
+    width: 100%;
+    background-color: rgb(232, 232, 232);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.updateproducts>form>fieldset{
+    height: 100%;
+    width: 100%;
+    /* background-color: beige; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.updateproducts>form>fieldset>input{
+    margin-bottom: 10px;
+}
+.updateproducts>form>fieldset>textarea{
+    margin-bottom: 10px;
+}
+.updateproducts>form>fieldset>button{
+    height: 30px;
+    width: 70px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.updateproducts>form>fieldset>button:hover{
+    border: 3px solid green;
+}
