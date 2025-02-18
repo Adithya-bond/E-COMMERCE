@@ -1,0 +1,22 @@
+*{
+    margin: 0;padding: 0;box-sizing: border-box;
+}
+.unavbar{
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    gap: 20px;
+    background-color: black;
+    color: white;
+}
+.unavbar>a{
+    text-decoration: none;
+    color: white;
+    font-size: large;
+    font-weight: bold;
+}
+.unavbar>a:hover{
+    color: grey;
+}

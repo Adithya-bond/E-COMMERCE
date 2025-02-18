@@ -16,11 +16,11 @@ const AdminHomePage = () => {
           <Route path='/*' element={<AdminError/>}></Route>
           <Route path='/viewproducts' element={<AdminViewItems/>}></Route>
           <Route path='/addproducts' element={<AdminAddProducts/>}></Route>
-          <Route path='/updateproducts/:id' element={<UpdateProduts/>}></Route>
+          <Route path='/updateproducts/:id' element={<UpdateProduts/>}></Route>//should use ":"
         </Routes>
       <AdminFooter/>
     </div>
   )
-}
+}   
 
 export default AdminHomePage

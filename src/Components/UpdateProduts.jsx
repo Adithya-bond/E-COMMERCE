@@ -28,7 +28,6 @@ const UpdateProduts = () => {
       setThumbnail(res.data.thumbnail)
       setRatings(res.data.ratings)
       setDesc(res.data.desc)
-      
     })
     .catch((err)=>{
       console.log(err);

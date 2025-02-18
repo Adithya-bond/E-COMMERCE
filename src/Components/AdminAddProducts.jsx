@@ -31,11 +31,12 @@ const AdminAddProducts = () => {
             Category:
           </label> 
           <select required value={category} onChange={(e)=>{setCategory(e.target.value)}}> 
-            <option>Dress Materials</option> 
-            <option>Mobile</option> 
-            <option>Mobile Accessories</option> 
-            <option>Electronics</option> 
-            <option>Groceries</option> 
+            <option value=""></option>
+            <option value="Dress Materials">Dress Materials</option> 
+            <option value="Mobile">Mobile</option> 
+            <option value="Mobile Accessories">Mobile Accessories</option> 
+            {/* <option>Electronics</option>  */}
+            <option value="Groceries">Groceries</option> 
           </select> 
           <label htmlFor="">Product Name: </label> 
           <input type="text" required value={name} onChange={(e)=>{setName(e.target.value)}} /> 

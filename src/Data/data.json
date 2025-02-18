@@ -47,10 +47,109 @@
       "id": "c6b7",
       "category": "Mobile",
       "name": "OnePlus Nord CE 3 5G",
-      "price": "17000",
+      "price": "1700",
       "thumbnail": "https://m.media-amazon.com/images/I/6175SlKKECL._AC_UY327_FMwebp_QL65_.jpg",
       "ratings": "4.5",
       "desc": "OnePlus Nord CE 3 5G (Aqua Surge, 8GB RAM, 128GB Storage)"
+    },
+    {
+      "id": "1a32",
+      "category": "Dress Materials",
+      "name": "Allen Solly",
+      "price": "800",
+      "thumbnail": "https://m.media-amazon.com/images/I/71G-VJLjPaL._AC_UL480_FMwebp_QL65_.jpg",
+      "ratings": "4",
+      "desc": "Allen Solly Men's Cotton Blend Casual Crew Neck Sweatshirt\n"
+    },
+    {
+      "id": "7bf0",
+      "category": "Dress Materials",
+      "name": "Bellstone",
+      "price": "800",
+      "thumbnail": "https://m.media-amazon.com/images/I/61yWnrT3eQL._AC_UL480_FMwebp_QL65_.jpg",
+      "ratings": "4.5",
+      "desc": "Bellstone Men's Solid Regular Fit Kurta\n\n"
+    },
+    {
+      "id": "683a",
+      "category": "Dress Materials",
+      "name": "DEELMO",
+      "price": "493",
+      "thumbnail": "https://m.media-amazon.com/images/I/61tQkRmODML._AC_UL480_FMwebp_QL65_.jpg",
+      "ratings": "3.3",
+      "desc": "DEELMO Men's Cotton Blend Mandarin Collar Self One Design Full Sleeve Casual Short Kurta"
+    },
+    {
+      "id": "9035",
+      "category": "Dress Materials",
+      "name": "FINIVO FASHION",
+      "price": "493",
+      "thumbnail": "https://m.media-amazon.com/images/I/51yn92oL9fL._AC_UL480_FMwebp_QL65_.jpg",
+      "ratings": "4.4",
+      "desc": "FINIVO FASHION Textured Shirts for Men || Casual Shirt for Men || Shirt for Men|| Men Stylish Shirt || Men Fancy Shirt || Men Full Sleeve Shirt || Plain Shirts for Men"
+    },
+    {
+      "id": "2485",
+      "category": "Dress Materials",
+      "name": "Lymio",
+      "price": "379",
+      "thumbnail": "https://m.media-amazon.com/images/I/81SJV8c67WL._AC_UL480_FMwebp_QL65_.jpg",
+      "ratings": "4.4",
+      "desc": "Lymio Men's Shirt"
+    },
+    {
+      "id": "963a",
+      "category": "Groceries",
+      "name": "Toor Dal",
+      "price": "196",
+      "thumbnail": "https://m.media-amazon.com/images/I/61HA0lc+dHL._AC_UL480_FMwebp_QL65_.jpg",
+      "ratings": "4.6",
+      "desc": "Tata Sampann Unpolished Toor Dal/Arhar Dal, 1kg"
+    },
+    {
+      "id": "b86f",
+      "category": "Groceries",
+      "name": "Salt",
+      "price": "28",
+      "thumbnail": "https://m.media-amazon.com/images/I/614mm2hYHyL._AC_UL480_FMwebp_QL65_.jpg",
+      "ratings": "4.9",
+      "desc": "Tata Salt 1 Kg, Free Flowing and Iodised Namak, Vacuum Evaporated, Salt in Fresh"
+    },
+    {
+      "id": "8639",
+      "category": "Groceries",
+      "name": "Green Moong Dal",
+      "price": "90",
+      "thumbnail": "https://m.media-amazon.com/images/I/71I3BB5Rl6L._AC_UL480_FMwebp_QL65_.jpg",
+      "ratings": "4.7",
+      "desc": "Tata Sampann Unpolished Green Moong Dal (Whole), 500g"
+    },
+    {
+      "id": "9445",
+      "category": "Groceries",
+      "name": "Basmati Rice",
+      "price": "330",
+      "thumbnail": "https://m.media-amazon.com/images/I/61GXbTd0zrL._AC_UL480_FMwebp_QL65_.jpg",
+      "ratings": "4",
+      "desc": "Daawat Rozana Super Basmati Rice 5Kg| For Everyday Consumption| Cooked Grain Upto 13mm*| Naturally Aged"
+    },
+    {
+      "id": "2591",
+      "category": "Mobile Accessories",
+      "name": "Mobile Holder Stand",
+      "price": "119",
+      "thumbnail": "https://m.media-amazon.com/images/I/51u2MqPaQwL._AC_UY327_FMwebp_QL65_.jpg",
+      "ratings": "4",
+      "desc": "Portronics MODESK Universal Mobile Holder Stand with Metal Body, Anti Skid Design, Light Weight for All Smartphones, Tablets, Kindle, iPad(Black)"
+    },
+    {
+      "id": "28eb",
+      "category": "Mobile Accessories",
+      "name": "Mobile Holder Stand",
+      "price": "75",
+      "thumbnail": "https://m.media-amazon.com/images/I/61RGJpcuU0L._AC_UY327_FMwebp_QL65_.jpg",
+      "ratings": "4",
+      "desc": "Elv Mobile Phone Tabletop Holder for Phones and Tablets - Black"
     }
   ]
 }
