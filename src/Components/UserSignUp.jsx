@@ -12,7 +12,7 @@ const UserSignUp = () => {
     let handleForm=()=>{
         console.log(name,email,password,phone);
         let payload={name,email,password,phone};
-        axios.post(`http://localhost:2000/Users`,payload)
+        axios.post(`https://ekart-backend-tw0x.onrender.com/Users`,payload)
         .then(()=>{console.log("data saved");})
         .catch(()=>{console.log("Not Saved data");})
     }

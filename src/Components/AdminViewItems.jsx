@@ -9,7 +9,7 @@ const AdminViewItems = () => {
 
   useEffect(() => {
     function fetchdata() {
-      axios.get("http://localhost:2000/products")
+      axios.get("https://ekart-backend-tw0x.onrender.com/products")
         .then((res) => {
           console.log(res.data);
           setProducts(res.data);
@@ -23,7 +23,7 @@ const AdminViewItems = () => {
   }, [force]);
 
   function deleteproducts(id,name){
-    axios.delete(`http://localhost:2000/products/${id}`)
+    axios.delete(`https://ekart-backend-tw0x.onrender.com/products/${id}`)
     .then(()=>{
       toast.success(`${name} deleted succesfully`)
       setForce(force+1)

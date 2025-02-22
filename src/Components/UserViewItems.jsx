@@ -10,7 +10,7 @@ const UserViewItems = () => {
  
     useEffect(()=>{
         function fetchdata(){
-          axios.get(`http://localhost:2000/products`)
+          axios.get(`https://ekart-backend-tw0x.onrender.com/products`)
         .then((res)=>{
           console.log(res);
           console.log(res.data);

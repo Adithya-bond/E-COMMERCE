@@ -10,7 +10,7 @@ const UserLogin = () => {
   let [admin, setAdmin] = useState([]);
   useEffect(() => {
     async function fetchAdmin() {
-      let data = await fetch("http://localhost:2000/Users");
+      let data = await fetch("https://ekart-backend-tw0x.onrender.com/Users");
       let res = await data.json();
       setAdmin(res);
     }

@@ -11,7 +11,7 @@ const AdminSignUp = () => {
     let handleForm=()=>{
         console.log(name,email,password,phone);
         let payload={name,email,password,phone};
-        axios.post(`http://localhost:2000/Admin`,payload)
+        axios.post(`https://ekart-backend-tw0x.onrender.com/Admin`,payload)
         .then(()=>{console.log("data saved");})
         .catch(()=>{console.log("Not Saved data");})
     }

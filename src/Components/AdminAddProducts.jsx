@@ -13,7 +13,7 @@ const AdminAddProducts = () => {
   let data ={category,name,price,thumbnail,ratings,desc}
   function addProducts(e){
     e.preventDefault()
-    axios.post('http://localhost:2000/products',data)
+    axios.post('https://ekart-backend-tw0x.onrender.com/products',data)
     .then((res)=>{
       console.log(res);
       toast.success('data is added succcesfully');

@@ -17,7 +17,7 @@ const UpdateProduts = () => {
 
   let param=useParams();
   useEffect(()=>{
-    axios.get(`http://localhost:2000/products/${param.id}`)
+    axios.get(`https://ekart-backend-tw0x.onrender.com/products/${param.id}`)
     .then((res)=>{
       console.log(res.data);
       console.log(param.id);
@@ -36,7 +36,7 @@ const UpdateProduts = () => {
   },[])
   function update(e){
     e.preventDefault();
-    axios.put(`http://localhost:2000/products/${param.id}`,data)
+    axios.put(`https://ekart-backend-tw0x.onrender.com/products/${param.id}`,data)
     .then((res)=>{
       console.log(res.data);
       toast.success("updated sucessfully")
